@@ -1,4 +1,4 @@
-package com.pankov.roadtosenior.roadtosenior;
+package com.pankov.roadtosenior;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

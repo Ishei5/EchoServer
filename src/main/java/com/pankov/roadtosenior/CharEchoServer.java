@@ -1,9 +1,8 @@
-package com.pankov.roadtosenior.roadtosenior;
+package com.pankov.roadtosenior;
 
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.nio.charset.StandardCharsets;
 
 public class CharEchoServer implements Server {
     public static void main(String[] args) throws IOException {
